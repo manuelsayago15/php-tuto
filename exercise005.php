@@ -23,7 +23,7 @@
     }
 
     public function CreateTable() {
-      echo '<table border="1px; style="width: 500px";">';
+      echo '<table border="1px"; style="width: 500px;">';
     } 
 
     public function TableRow() {
